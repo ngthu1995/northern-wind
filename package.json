@@ -1,5 +1,7 @@
 {
   "name": "northern-wind",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@stripe/react-stripe-js": "1.7.0",
