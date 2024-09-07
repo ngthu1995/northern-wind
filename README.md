@@ -4,6 +4,7 @@ An E-commerce application similar to Shopify using React, Redux, React Router, C
 
 Demo Link: https://lovely-khapse-af9eff.netlify.app/
 
+![screenshot](/public/preview.png)
 
 # 🚀 Frontend Technologies
 
